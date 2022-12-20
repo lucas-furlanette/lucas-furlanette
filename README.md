@@ -8,9 +8,9 @@
 
 #### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-furlanette&repo=eda-eleicoes2022)](https://github.com/lucas-furlanette/eda-eleicoes2022)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-furlanette&repo=eda-eleicoes2022&theme=dark)](https://github.com/lucas-furlanette/eda-eleicoes2022)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-furlanette&repo=eda-loggi)](https://github.com/lucas-furlanette/eda-loggi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-furlanette&repo=eda-loggi&theme=dark)](https://github.com/lucas-furlanette/eda-loggi)
 
 
 <!---
