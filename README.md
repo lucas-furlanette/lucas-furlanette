@@ -6,13 +6,6 @@
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/lucas-furlanette/)
 
-#### Projetos
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-furlanette&repo=eda-eleicoes2022&theme=cobalt)](https://github.com/lucas-furlanette/eda-eleicoes2022)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-furlanette&repo=eda-loggi&theme=cobalt)](https://github.com/lucas-furlanette/eda-loggi)
-
 
 <!---
 lucas-furlanette/lucas-furlanette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
